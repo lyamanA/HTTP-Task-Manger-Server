@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HTTP Task Manger Server", "HTTP Task Manger Server\HTTP Task Manger Server.csproj", "{DE87A66B-D3B9-4D64-BFD8-59FC9074E264}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP Task Manager Client", "HTTP Task Manager Client\HTTP Task Manager Client.csproj", "{FBED8D09-54F7-4292-9CCC-211081E87476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE87A66B-D3B9-4D64-BFD8-59FC9074E264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE87A66B-D3B9-4D64-BFD8-59FC9074E264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE87A66B-D3B9-4D64-BFD8-59FC9074E264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE87A66B-D3B9-4D64-BFD8-59FC9074E264}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBED8D09-54F7-4292-9CCC-211081E87476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBED8D09-54F7-4292-9CCC-211081E87476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBED8D09-54F7-4292-9CCC-211081E87476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBED8D09-54F7-4292-9CCC-211081E87476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5568741-82E4-4A3E-BBAB-F0F65E083664}
+	EndGlobalSection
+EndGlobal
